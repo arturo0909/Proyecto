@@ -50,7 +50,7 @@ body{
     "sidebar" 100px
     "footer" 100px;
 }
-
+/*
 @media (min-width: 600px){
     .grid-container{
         grid-template: 
@@ -70,4 +70,4 @@ body{
         "footer footer footer" 100px /
         200px auto 200px;
     }
-}
+}*/
