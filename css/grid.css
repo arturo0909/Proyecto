@@ -19,7 +19,7 @@ body{
     padding: 10px;
     text-align: center;
 }
-/*
+
 .header{
     grid-area: header;
 }
@@ -49,7 +49,7 @@ body{
     "main" auto
     "sidebar" 100px
     "footer" 100px;
-}*/
+}
 /*
 @media (min-width: 600px){
     .grid-container{
